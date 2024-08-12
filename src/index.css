@@ -1,42 +1,25 @@
-span{
-  color: white;
-  padding-left: .4 rem;
+#root{
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
 }
 
-#root,boddy,*{
-  padding: 0px;
+body{
   margin: 0px;
 }
 
-.navbar{
-  background-color: darkslategray ;
-  
-}
-
 .container{
-  display: flex;
-  align-items: center;
   padding: 20px;
-  
 }
 
 .brand{
-  font-size: 24px;
+  font-size: 26px;
   color: white;
   
 }
 
-.list{
-  display: flex;
-  list-style: none;
-}
-
-li{
-  padding-left: 20px;
+span{
+  color: white;
   padding-right: 20px;
-
 }
 
-h1{
-  text-align: start;
-}

@@ -1,0 +1,244 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "image": "https://www.emergente.com.co/blog/wp-content/uploads/2020/11/Resun210W.jpg",
+      "name": "Panel Solar Monocristalino 350W",
+      "description": "Panel solar de alta eficiencia con células monocristalinas, ideal para aplicaciones residenciales y comerciales.",
+      "category": "Paneles",
+      "price": 200.00
+    },
+    {
+      "id": 2,
+      "image": "https://m.media-amazon.com/images/I/51dHmXyYgcL._AC_UF894,1000_QL80_.jpg",
+      "name": "Inversor Solar 3kW Monofásico",
+      "description": "Inversor solar de 3 kW, compatible con sistemas fotovoltaicos, ideal para aplicaciones residenciales.",
+      "category": "Inversores",
+      "price": 450.00
+    },
+    {
+      "id": 3,
+      "image": "https://siflumsa.com/wp-content/uploads/2020/08/ESTRUCTURAS-PARA-PANELES-SOLARES-UMBRA.jpg",
+      "name": "Estructura para Paneles Solares Inclinado",
+      "description": "Estructura resistente para instalar paneles solares en techos inclinados, fácil de montar y duradera.",
+      "category": "Estructuras",
+      "price": 150.00
+    },
+    {
+      "id": 4,
+      "image": "https://www.emergente.com.co/blog/wp-content/uploads/2020/11/Resun210W.jpg",
+      "name": "Panel Solar Policristalino 330W",
+      "description": "Panel solar policristalino con excelente rendimiento a bajo costo, ideal para grandes instalaciones.",
+      "category": "Paneles",
+      "price": 180.00
+    },
+    {
+      "id": 5,
+      "image": "https://m.media-amazon.com/images/I/51dHmXyYgcL._AC_UF894,1000_QL80_.jpg",
+      "name": "Inversor Híbrido 5kW",
+      "description": "Inversor híbrido de 5 kW, compatible con sistemas de baterías y red eléctrica, ideal para aplicaciones residenciales.",
+      "category": "Inversores",
+      "price": 650.00
+    },
+    {
+      "id": 6,
+      "image": "https://siflumsa.com/wp-content/uploads/2020/08/ESTRUCTURAS-PARA-PANELES-SOLARES-UMBRA.jpg",
+      "name": "Estructura para Paneles Solares en Techo Plano",
+      "description": "Estructura ajustable para instalar paneles solares en techos planos, diseñada para máxima exposición solar.",
+      "category": "Estructuras",
+      "price": 180.00
+    },
+    {
+      "id": 7,
+      "image": "https://www.emergente.com.co/blog/wp-content/uploads/2020/11/Resun210W.jpg",
+      "name": "Panel Solar Monocristalino 400W",
+      "description": "Panel solar de alta potencia, ideal para sistemas de gran escala con espacio limitado.",
+      "category": "Paneles",
+      "price": 250.00
+    },
+    {
+      "id": 8,
+      "image": "https://m.media-amazon.com/images/I/51dHmXyYgcL._AC_UF894,1000_QL80_.jpg",
+      "name": "Inversor Solar 10kW Trifásico",
+      "description": "Inversor solar trifásico de 10 kW, diseñado para aplicaciones comerciales e industriales.",
+      "category": "Inversores",
+      "price": 1200.00
+    },
+    {
+      "id": 9,
+      "image": "https://siflumsa.com/wp-content/uploads/2020/08/ESTRUCTURAS-PARA-PANELES-SOLARES-UMBRA.jpg",
+      "name": "Estructura para Paneles Solares en Suelo",
+      "description": "Estructura de soporte robusta para la instalación de paneles solares en suelo, ideal para grandes campos solares.",
+      "category": "Estructuras",
+      "price": 300.00
+    },
+    {
+      "id": 10,
+      "image": "https://www.emergente.com.co/blog/wp-content/uploads/2020/11/Resun210W.jpg",
+      "name": "Panel Solar Flexible 100W",
+      "description": "Panel solar flexible y ligero, ideal para aplicaciones móviles como caravanas y barcos.",
+      "category": "Paneles",
+      "price": 120.00
+    },
+    {
+      "id": 11,
+      "image": "https://m.media-amazon.com/images/I/51dHmXyYgcL._AC_UF894,1000_QL80_.jpg",
+      "name": "Microinversor Solar 600W",
+      "description": "Microinversor eficiente para paneles solares, fácil de instalar y perfecto para sistemas modulares.",
+      "category": "Inversores",
+      "price": 300.00
+    },
+    {
+      "id": 12,
+      "image": "https://siflumsa.com/wp-content/uploads/2020/08/ESTRUCTURAS-PARA-PANELES-SOLARES-UMBRA.jpg",
+      "name": "Estructura para Paneles Solares Ajustable",
+      "description": "Estructura ajustable para maximizar la captación de luz solar, compatible con diversos tipos de paneles.",
+      "category": "Estructuras",
+      "price": 250.00
+    },
+    {
+      "id": 13,
+      "image": "https://www.emergente.com.co/blog/wp-content/uploads/2020/11/Resun210W.jpg",
+      "name": "Panel Solar Monocristalino 450W",
+      "description": "Panel solar de última generación con una alta eficiencia y rendimiento, ideal para grandes instalaciones.",
+      "category": "Paneles",
+      "price": 300.00
+    },
+    {
+      "id": 14,
+      "image": "https://m.media-amazon.com/images/I/51dHmXyYgcL._AC_UF894,1000_QL80_.jpg",
+      "name": "Inversor Solar 1kW Portátil",
+      "description": "Inversor solar portátil de 1 kW, ideal para pequeños sistemas de energía y aplicaciones móviles.",
+      "category": "Inversores",
+      "price": 200.00
+    },
+    {
+      "id": 15,
+      "image": "https://siflumsa.com/wp-content/uploads/2020/08/ESTRUCTURAS-PARA-PANELES-SOLARES-UMBRA.jpg",
+      "name": "Estructura para Paneles Solares en Techo Metálico",
+      "description": "Estructura diseñada para la instalación de paneles solares en techos metálicos, resistente y duradera.",
+      "category": "Estructuras",
+      "price": 180.00
+    },
+    {
+      "id": 16,
+      "image": "https://www.emergente.com.co/blog/wp-content/uploads/2020/11/Resun210W.jpg",
+      "name": "Panel Solar Monocristalino 500W",
+      "description": "Panel solar de alta eficiencia para grandes instalaciones residenciales y comerciales.",
+      "category": "Paneles",
+      "price": 350.00
+    },
+    {
+      "id": 17,
+      "image": "https://m.media-amazon.com/images/I/51dHmXyYgcL._AC_UF894,1000_QL80_.jpg",
+      "name": "Inversor Solar 2kW para Baterías",
+      "description": "Inversor solar optimizado para sistemas con baterías, ideal para aplicaciones fuera de la red.",
+      "category": "Inversores",
+      "price": 500.00
+    },
+    {
+      "id": 18,
+      "image": "https://siflumsa.com/wp-content/uploads/2020/08/ESTRUCTURAS-PARA-PANELES-SOLARES-UMBRA.jpg",
+      "name": "Estructura para Paneles Solares de Montaje en Pared",
+      "description": "Estructura diseñada para montar paneles solares en paredes verticales, ideal para espacios limitados.",
+      "category": "Estructuras",
+      "price": 220.00
+    },
+    {
+      "id": 19,
+      "image": "https://www.emergente.com.co/blog/wp-content/uploads/2020/11/Resun210W.jpg",
+      "name": "Panel Solar Policristalino 250W",
+      "description": "Panel solar policristalino económico, ideal para sistemas pequeños y medianos.",
+      "category": "Paneles",
+      "price": 150.00
+    },
+    {
+      "id": 20,
+      "image": "https://m.media-amazon.com/images/I/51dHmXyYgcL._AC_UF894,1000_QL80_.jpg",
+      "name": "Inversor Solar 4kW con Monitor LCD",
+      "description": "Inversor solar de 4 kW con monitor LCD para un control y monitoreo fácil del sistema.",
+      "category": "Inversores",
+      "price": 750.00
+    },
+    {
+      "id": 21,
+      "image": "https://siflumsa.com/wp-content/uploads/2020/08/ESTRUCTURAS-PARA-PANELES-SOLARES-UMBRA.jpg",
+      "name": "Estructura para Paneles Solares de Montaje en Techo de Tejas",
+      "description": "Estructura especializada para la instalación de paneles solares en techos de tejas, fácil de instalar.",
+      "category": "Estructuras",
+      "price": 200.00
+    },
+    {
+      "id": 22,
+      "image": "https://www.emergente.com.co/blog/wp-content/uploads/2020/11/Resun210W.jpg",
+      "name": "Panel Solar Monocristalino 550W",
+      "description": "Panel solar de alto rendimiento para grandes instalaciones industriales y comerciales.",
+      "category": "Paneles",
+      "price": 400.00
+    },
+    {
+      "id": 23,
+      "image": "https://m.media-amazon.com/images/I/51dHmXyYgcL._AC_UF894,1000_QL80_.jpg",
+      "name": "Inversor Solar 8kW con WiFi",
+      "description": "Inversor solar de 8 kW con conectividad WiFi para monitoreo remoto, ideal para aplicaciones avanzadas.",
+      "category": "Inversores",
+      "price": 1300.00
+    },
+    {
+      "id": 24,
+      "image": "https://siflumsa.com/wp-content/uploads/2020/08/ESTRUCTURAS-PARA-PANELES-SOLARES-UMBRA.jpg",
+      "name": "Estructura para Paneles Solares de Montaje en Suelo Inclinado",
+      "description": "Estructura para montaje de paneles solares en suelos inclinados, adaptable a diferentes ángulos.",
+      "category": "Estructuras",
+      "price": 350.00
+    },
+    {
+      "id": 25,
+      "image": "https://www.emergente.com.co/blog/wp-content/uploads/2020/11/Resun210W.jpg",
+      "name": "Panel Solar Flexible 200W",
+      "description": "Panel solar flexible de 200W, ideal para aplicaciones móviles y sistemas portátiles.",
+      "category": "Paneles",
+      "price": 220.00
+    },
+    {
+      "id": 26,
+      "image": "https://m.media-amazon.com/images/I/51dHmXyYgcL._AC_UF894,1000_QL80_.jpg",
+      "name": "Inversor Solar 6kW con Baterías",
+      "description": "Inversor solar de 6kW optimizado para sistemas con baterías, ideal para hogares y pequeñas empresas.",
+      "category": "Inversores",
+      "price": 1100.00
+    },
+    {
+      "id": 27,
+      "image": "https://siflumsa.com/wp-content/uploads/2020/08/ESTRUCTURAS-PARA-PANELES-SOLARES-UMBRA.jpg",
+      "name": "Estructura para Paneles Solares de Montaje en Azotea",
+      "description": "Estructura diseñada para instalar paneles solares en azoteas, optimizada para máxima captación solar.",
+      "category": "Estructuras",
+      "price": 280.00
+    },
+    {
+      "id": 28,
+      "image": "https://www.emergente.com.co/blog/wp-content/uploads/2020/11/Resun210W.jpg",
+      "name": "Panel Solar Monocristalino 600W",
+      "description": "Panel solar de alta potencia para instalaciones de gran escala, ideal para proyectos industriales.",
+      "category": "Paneles",
+      "price": 450.00
+    },
+    {
+      "id": 29,
+      "image": "https://m.media-amazon.com/images/I/51dHmXyYgcL._AC_UF894,1000_QL80_.jpg",
+      "name": "Inversor Solar 12kW Trifásico",
+      "description": "Inversor solar trifásico de 12kW, diseñado para aplicaciones industriales de gran escala.",
+      "category": "Inversores",
+      "price": 1600.00
+    },
+    {
+      "id": 30,
+      "image": "https://siflumsa.com/wp-content/uploads/2020/08/ESTRUCTURAS-PARA-PANELES-SOLARES-UMBRA.jpg",
+      "name": "Estructura para Paneles Solares Montaje en Pared Ajustable",
+      "description": "Estructura ajustable para montaje en pared, diseñada para paneles solares de distintos tamaños.",
+      "category": "Estructuras",
+      "price": 260.00
+    }
+  ]
+}
